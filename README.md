@@ -29,7 +29,7 @@ Each lab is located in its respective folder, with detailed instructions on how 
 
     Clone this repository to your local machine:
 
-    bash
+    
 
     git clone https://github.com/Cyber-Sleuth/Telugu-Threat-Track.git
     cd Telugu-Threat-Track
