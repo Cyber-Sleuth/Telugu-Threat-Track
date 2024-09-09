@@ -1,6 +1,7 @@
 Malware Analysis Course Labs
 
 Welcome to the Malware Analysis Course Labs repository. This collection of labs is designed to complement the lessons in the Telugu Malware Analysis Course by providing practical, hands-on experience in analyzing malicious software. These labs are aimed at students, working professionals, and freelancers who are looking to develop a solid understanding of static and dynamic malware analysis techniques.
+
 📚 Course Overview
 
 This repository contains the following types of labs:
@@ -35,7 +36,6 @@ Each lab is located in its respective folder, with detailed instructions on how 
 
     Navigate to the folder of the specific lab you want to work on.
 
-    Follow the steps provided in the lab's INSTRUCTIONS.md file.
 
 💡 Tips for Analysis
 
@@ -57,4 +57,3 @@ At the end of each lab, you are expected to generate a report detailing your fin
 If you would like to contribute to this project, feel free to open a pull request or submit issues for bugs, enhancements, or new lab ideas.
 📞 Contact
 
-For any queries or support, please reach out via the GitHub issues page or contact me directly at saikanajam621@gmail.com.
